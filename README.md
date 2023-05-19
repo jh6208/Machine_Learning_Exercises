@@ -11,7 +11,6 @@ This first assignment is just a catch up of what most of us have learned already
 
 ***2. Assignment_2_Investment_1:*** 
 
-This is a short exercise designing an investment strategy in one single stock to predict whether it is overpriced or underpriced. If it is overpriced, then investors should short the stock price; otherwise not short. This is a common investment strategy in finance, and if employed 
-appropriately, investors can make a lot of money.
+This is a short exercise designing an investment strategy in one single stock to predict whether the stock price's return next day is positive or negative. If it is positive, then investors should go long the stock; otherwise not. This is a common investment strategy in finance, and if employed appropriately, investors can make a lot of money.
 
 * Category: Applications in Finance
