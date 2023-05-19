@@ -1,2 +1,2 @@
-# Assignment-1-Future-Stock-Price-Prediction
-This is the first assignment on machine learning, predicting the future stock prices for several stocks
+# [NYU Tandon FRE-7773 Jain] Machine Learning Projects
+This is the machine learing projects tackeling common questions in the articial intelligence field, including the applications of future stock price pedictions, future long/short strategies, pairs-trading, and image classicifation. The first six assignments deal with classcial machine learning questions, while the last four ones are on the deep-learning field. In additon, the final project is the applications of reinforcement learning on asset pricing in the Mathematical Finance field. Have a fun looking at these projects!
