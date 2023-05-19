@@ -1,4 +1,4 @@
-# Assignment_3_Investment_2: Kalman Filtering and Pair Trading
+# Future Investment Strategy 2: Kalman Filtering and Pair Trading
 
 This is the second type of investment methods commonly used in finance. This time we used a pair of highly correalted stocks. And predict whether 
 their spread exceeds a certain level. If exceeds, then we go short the one with a higher price than the other. Pairs trading is a statistical
