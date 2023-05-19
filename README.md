@@ -1,4 +1,7 @@
 # [NYU Tandon FRE-7773 Jain] Machine Learning Projects
+
+<img width="1175" alt="截屏2023-05-19 下午4 27 12" src="https://github.com/jh6208/Machine_Learning_Exercises/assets/122949623/61cbb3e0-8d40-4839-b944-6b4dd8dd6891">
+
 The projects deal with common questions in the machine learning field, including the classcial machine learning, the deep learning, and the reinforcement learning. Some of the projects also tackle the applications on Financial Engineering, including predicting future market states, designing investment strategies, and images classification.
 
 Here is a short catalog briefly discussing each assignment:
