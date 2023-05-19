@@ -17,3 +17,9 @@ This first assignment is just a catch up of what most of us have learned already
 This is a short exercise designing an investment strategy in one single stock to predict whether the stock price's return next day is positive or negative. If it is positive, then investors should go long the stock; otherwise not. This is a common investment strategy in finance, and if employed appropriately, investors can make a lot of money.
 
 * Category: Applications in Finance
+
+***3. Assignment_3_Investment_2:***
+
+The goal of this assignment is to design a simple pairs trading strategy in the S&P 500 ETF and the Dow Jones Industrial ETF, by using the rolling regression and Kalman filtering. Even though not performing well by both methods, this mini project provides a general blueprint for implementing the pairs trading strategy in finance, a common statistical arbitrage approach adopted by investors to earn a profit.
+
+* Category: Applications in Finance
