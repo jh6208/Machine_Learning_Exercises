@@ -9,4 +9,9 @@ This first assignment is just a catch up of what most of us have learned already
 
 * Category: Applications in Finance
 
+***2. Assignment_2_Investment_2:*** 
 
+This is a short exercise designing an investment strategy in one single stock to predict whether it is overpriced or underpriced. If it is overpriced, then investors should short the stock price; otherwise not short. This is a common investment strategy in finance, and if employed 
+appropriately, investors can make a lot of money.
+
+* Category: Applications in Finance
