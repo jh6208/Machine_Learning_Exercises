@@ -44,3 +44,28 @@ Assignment 6 is a mix of several things: K means clustering, correlation shrinka
 
 * Category: Concept Teachings & Applications in Finance
 
+***7. Assignment_7_DNN_MNIST:***
+
+This mini project applies the deep neural networks (DNNs) to the image (clothing) applications. It extracts dataset from MNIST, and then builds up
+a variety of DNN models to maximize the accuracy for the classification task. The good news is that almost all of the models did a pretty good job with accuracies close to 90%!
+
+* Category: Applications in Finance
+
+***8. Assignment_8_DNN_Constructions:***
+
+This assignment takes a deep look into the constructions of the DNNs. It includes five steps: DNN Builing Ups, the Applications in Image Classification, Initialization, Optimization, and Regularization. 
+
+* Category: Concept Teachings 
+
+***9. Assignment_9_CNN_Constructions:***
+
+This exercise takes a deep look into the constructions of the Convolutional Neural Networks (CNNs).
+
+* Category: Concept Teachings 
+
+***10. Assignment_10_RNN_Constructions:***
+
+This exercise takes a deep look into the constructions of the Recurrent Neural Networks (RNNs).
+
+* Category: Concept Teachings 
+
