@@ -31,4 +31,16 @@ the contributions of this assignment is from the textbook "Hands-On Machine Lear
 
 * Category: Concept Teachings
 
+***5. Assignment_5_PCA_Applications:***
+
+Being the first assignment in the unsupervised learning field, Assignment 5 utilizes the principal component analysis (PCA) to extract useful features
+in predicting the returns for the eign portfolios. It then reports the eign portfolios with the highest returns. The same textbook and Github are useful enough!
+
+* Category: Applications in Finance
+
+***6. Assignment_6_K_Means_Shrink_Correlations_HRP:***
+
+Assignment 6 is a mix of several things: K means clustering, correlation shrinkage, and the Hierarchical Risk Parity to construct the portfolios in finance. Using HRP to construct portfolio in finance is a novel idea and it solves the singularity problem of matrices. 
+
+* Category: Concept Teachings & Applications in Finance
 
