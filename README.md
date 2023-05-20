@@ -23,3 +23,12 @@ This is a short exercise designing an investment strategy in one single stock to
 The goal of this assignment is to design a simple pairs trading strategy in the S&P 500 ETF and the Dow Jones Industrial ETF, by using the rolling regression and Kalman filtering. Even though not performing well by both methods, this mini project provides a general blueprint for implementing the pairs trading strategy in finance, a common statistical arbitrage approach adopted by investors to earn a profit.
 
 * Category: Applications in Finance
+
+***4. Assignment_4_SVM:***
+
+This is a short exercise whose goal is to let newcomers be familiar with the Support Vector Machines' application in classification. The majority of
+the contributions of this assignment is from the textbook "Hands-On Machine Learning with Scikit-Learn and TensorFlow.pdf" by the author Géron A., and its corresponding github repository https://github.com/ageron/handson-ml2.
+
+* Category: Concept Teachings
+
+
