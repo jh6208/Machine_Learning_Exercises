@@ -27,7 +27,7 @@ The goal of this assignment is to design a simple pairs trading strategy in the 
 ***4. Assignment_4_SVM:***
 
 This is a short exercise whose goal is to let newcomers be familiar with the Support Vector Machines' application in classification. The majority of
-the contributions of this assignment is from the textbook "Hands-On Machine Learning with Scikit-Learn and TensorFlow.pdf" by the author Géron A., and its corresponding github repository https://github.com/ageron/handson-ml2.
+the contributions of this assignment is from the textbook "Hands-On Machine Learning with Scikit-Learn and TensorFlow.pdf", https://www.clc.hcmus.edu.vn/wp-content/uploads/2017/11/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf,  by the author Géron A., and its corresponding github repository https://github.com/ageron/handson-ml2.
 
 * Category: Concept Teachings
 
