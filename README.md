@@ -69,3 +69,6 @@ This exercise takes a deep look into the constructions of the Recurrent Neural N
 
 * Category: Concept Teachings 
 
+***11. Final_Project_RL_Finance:***
+
+This final project concludes with the course. However, it does not focus on any topics we have learned so far. It investigates another exciting field in machine learning: Reinforcement Learning (RL). Reinforcement Learning involves the maximization of the Q-value functions, and it works backwardly by taking the action which maximizes the future rewards. In this setting, the model-free algorithm, the so-called Q-Learning Black Scholes model, is an extension of the classical Black Scholes model and solves the infamous volatility smile problem in finance. This project explains the code applications of the mathematical methodology of the QLBS model in detail, and describes the key points readers should remember from the QLBS model (stored in the pdf file "QLBS_Model_Review.pdf").
