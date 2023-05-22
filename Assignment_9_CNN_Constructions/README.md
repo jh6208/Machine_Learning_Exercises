@@ -2,4 +2,4 @@
 
 This short assignment teaches people how to build the convolutional Neurla Network (CNN) from scratch.
 
-*** Knowledge: CNN, Forward Pass, Backward Propagation ***
+***Knowledge: CNN, Forward Pass, Backward Propagation***
