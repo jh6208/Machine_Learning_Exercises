@@ -5,5 +5,5 @@ their spread exceeds a certain level. If exceeds, then we go short the one with 
 arbitrage, proved to receive smoothly and steadily increasing returns for pairs. However, in this exercise, pairs trading using the Rolling Regression
 and Kalman Filter did not performe well, indicating we should find some more advanced machine learning algorithms in this field. Note that this short exercise is based on the file "Kalman Filtering Case Study.pdf".
 
-*** Knwoledge: Rolling Linear Regression, Kalman Filtering, Pairs Trading Strategies ***
+***Knwoledge: Rolling Linear Regression, Kalman Filtering, Pairs Trading Strategies***
 
